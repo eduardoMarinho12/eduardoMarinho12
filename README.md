@@ -6,11 +6,7 @@
 
 ## 🧑🏻 About me
 
-Sou desenvolvedor back-end com foco em **Java + Spring Boot**, construindo APIs escaláveis e seguindo boas práticas como **Clean Code, SOLID e arquitetura em camadas**.
-
-🎓 Análise e Desenvolvimento de Sistemas - IFPB  
-💡 Foco atual: **Backend Java + Cloud (AWS)**  
-📍 Monteiro, PB
+Me chamo Pedro Eduardo, desenvolvedor back-end com foco em **Java + Spring Boot**, construindo APIs escaláveis e seguindo boas práticas como **Clean Code, SOLID e arquitetura em camadas**. Técnico em informática pelo IFPB - Campus Picuí e atualmente cursando Análise e Desenvolvimento de Sistemas pelo IFPB - Campus Monteiro
 
 ## 🌐 Find me at
 
