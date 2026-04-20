@@ -53,6 +53,5 @@ Me chamo Pedro Eduardo, desenvolvedor back-end com foco em **Java + Spring Boot*
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=eduardoMarinho12&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoMarinho12&layout=compact&theme=tokyonight"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoMarinho12&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 </div>
-
