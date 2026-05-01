@@ -42,7 +42,6 @@ Me chamo Pedro Eduardo, desenvolvedor back-end com foco em **Java + Spring Boot*
 <img src="https://img.shields.io/badge/REST API-0D1117?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Microservices-0D1117?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 </p>
 
